@@ -1,11 +1,12 @@
 
 # EJ2 Angular 7 DatePicker Quick Start
-A quick start project that helps you to create the Syncfusion Angular 6 DatePicker.
+A quick start project that helps you to create the Syncfusion Angular 7 DatePicker.
 
 
-![Angular 7 DatePicker](angular7datepicker.png "Angualar 7 Datepicker")
+![Angular 7 DatePicker](angular7datepicker.png "Angualar 7 DatePicker")
 
 This is a Angular 7 project generated using [Angular CLI](https://github.com/angular/angular-cli) version 7.0.4. The Datepicker features included in this project are as follows.
+
 * Min - Starting date that can be selected.
 * Max - Last date that can be selected.
 * SpecialDates - Specific dates are highlighted to notify the additional information of that date.
